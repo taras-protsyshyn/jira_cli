@@ -8,6 +8,8 @@ anyhow = "1.0"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 dotenv = "0.15"
+ellipse = "0.2.0"
+itertools = "0.10.3"
 
 [dev-dependencies]
 tempfile = "3.2"
